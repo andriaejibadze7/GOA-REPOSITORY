@@ -1,0 +1,5 @@
+print("brother:luka")
+print("bigbrother:misho")
+print("sister:nato")
+print("mom:nona")
+print("dad:rajaaa")
