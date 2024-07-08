@@ -4,4 +4,3 @@ if name > 3:
    print("real")
 else :
    print("you are chads")
-   
